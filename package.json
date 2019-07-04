@@ -1,5 +1,5 @@
 {
-  "name": "eslint-24hr",
+  "name": "@24hr/eslint-config",
   "version": "2.0.0",
   "description": "Eslint for 24HR Malmo",
   "main": "index.js",

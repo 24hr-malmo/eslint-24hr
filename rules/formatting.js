@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = {
     'rules': {
         'array-bracket-spacing': [2, 'never'],
